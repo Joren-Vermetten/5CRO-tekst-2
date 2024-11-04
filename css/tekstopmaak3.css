@@ -1,0 +1,10 @@
+/* Oefening 1 Ruimte tussen letters, regels en woorden */
+.letter-spacing {
+    letter-spacing: 5rem;
+}
+.line-height {
+    line-height: 5rem;
+}
+.word-spacing {
+    word-spacing: 1rem;
+}
